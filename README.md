@@ -37,7 +37,7 @@ Unfortunately, the search functionality may not work in the [demo link](https://
 - Clone this repo:
 
     ```python
-    $ git clone git@github.com:GitauHarrison/search-functionality-in-flask.git
+    $ git clone git@github.com:marlon-v-git/search_flask.git
     ```
 
 - Change directory to the cloned repo:
