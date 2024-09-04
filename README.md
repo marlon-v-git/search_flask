@@ -43,7 +43,7 @@ Unfortunately, the search functionality may not work in the [demo link](https://
 - Change directory to the cloned repo:
 
     ```python
-    $ cd search-functionality-in-flask
+    $ cd search_flask
     ```
 
 - Create and activate a virtual environment:
